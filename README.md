@@ -14,3 +14,5 @@ The topics covered in this notebook are as follows:
 # Sources
 1. [Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow] (https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 2. [ageron/handson-ml2] (https://github.com/ageron/handson-ml2)
+3. [Navarro, Renee MD. "What is unconscious bias?" *University of California, San Francisco.* Accessed: October 20, 2017](https://diversity.ucsf.edu/resources/unconscious-bias)
+
